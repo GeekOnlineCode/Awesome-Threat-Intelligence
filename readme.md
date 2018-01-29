@@ -79,3 +79,17 @@
 - [DroidSec](http://www.droidsec.cn)
 - [The Register - Security](https://www.theregister.co.uk/security/)
 - [BadCyber](https://badcyber.com)
+
+# 微信公众号
+
+# 知识星球
+- 安全姿势早知道
+- qz安全情报分析
+
+# 厂商产品
+- [ThreatBook](https://x.threatbook.cn/)
+- [天际友盟](https://www.sec-un.com/pages/index.jsp)
+- [VirusTotal](https://www.virustotal.com/)
+- [360 Netlab](http://data.netlab.360.com/)
+- [360威胁情报中心](https://ti.360.net/)
+- [云悉情报](http://www.yunsee.cn/finger.html)

@@ -80,6 +80,12 @@
 - [The Register - Security](https://www.theregister.co.uk/security/)
 - [BadCyber](https://badcyber.com)
 
+# 微博
+- [tombkeeper](https://weibo.com/101174?topnav=1&wvr=6&topsug=1)
+- [yuange1975](https://weibo.com/yuange1975?topnav=1&wvr=6&topsug=1)
+- [flashsky](https://weibo.com/flashsky?refer_flag=1001030101_)
+
+
 # 微信公众号
 
 # 知识星球
